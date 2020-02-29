@@ -1,0 +1,48 @@
+action: GLOB, msg: packaging
+cwd: C:\Users\twill\PycharmProjects\zapierAutomationDemo
+cmd: 'c:\users\twill\anaconda3\envs\zapierautomationdemo\python.exe' setup.py sdist --formats=zip --dist-dir '.tox\dist'
+running sdist
+running egg_info
+writing zapier_demo.egg-info\PKG-INFO
+writing dependency_links to zapier_demo.egg-info\dependency_links.txt
+writing requirements to zapier_demo.egg-info\requires.txt
+writing top-level names to zapier_demo.egg-info\top_level.txt
+reading manifest file 'zapier_demo.egg-info\SOURCES.txt'
+writing manifest file 'zapier_demo.egg-info\SOURCES.txt'
+warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
+
+running check
+creating zapier-demo-1.0.1
+creating zapier-demo-1.0.1\config
+creating zapier-demo-1.0.1\tests
+creating zapier-demo-1.0.1\zapier_demo.egg-info
+copying files to zapier-demo-1.0.1...
+copying setup.py -> zapier-demo-1.0.1
+copying config\__init__.py -> zapier-demo-1.0.1\config
+copying config\config.py -> zapier-demo-1.0.1\config
+copying tests\__init__.py -> zapier-demo-1.0.1\tests
+copying tests\test_navigation.py -> zapier-demo-1.0.1\tests
+copying zapier_demo.egg-info\PKG-INFO -> zapier-demo-1.0.1\zapier_demo.egg-info
+copying zapier_demo.egg-info\SOURCES.txt -> zapier-demo-1.0.1\zapier_demo.egg-info
+copying zapier_demo.egg-info\dependency_links.txt -> zapier-demo-1.0.1\zapier_demo.egg-info
+copying zapier_demo.egg-info\requires.txt -> zapier-demo-1.0.1\zapier_demo.egg-info
+copying zapier_demo.egg-info\top_level.txt -> zapier-demo-1.0.1\zapier_demo.egg-info
+Writing zapier-demo-1.0.1\setup.cfg
+creating '.tox\dist\zapier-demo-1.0.1.zip' and adding 'zapier-demo-1.0.1' to it
+adding 'zapier-demo-1.0.1'
+adding 'zapier-demo-1.0.1\config'
+adding 'zapier-demo-1.0.1\tests'
+adding 'zapier-demo-1.0.1\zapier_demo.egg-info'
+adding 'zapier-demo-1.0.1\PKG-INFO'
+adding 'zapier-demo-1.0.1\setup.cfg'
+adding 'zapier-demo-1.0.1\setup.py'
+adding 'zapier-demo-1.0.1\config\config.py'
+adding 'zapier-demo-1.0.1\config\__init__.py'
+adding 'zapier-demo-1.0.1\tests\test_navigation.py'
+adding 'zapier-demo-1.0.1\tests\__init__.py'
+adding 'zapier-demo-1.0.1\zapier_demo.egg-info\dependency_links.txt'
+adding 'zapier-demo-1.0.1\zapier_demo.egg-info\PKG-INFO'
+adding 'zapier-demo-1.0.1\zapier_demo.egg-info\requires.txt'
+adding 'zapier-demo-1.0.1\zapier_demo.egg-info\SOURCES.txt'
+adding 'zapier-demo-1.0.1\zapier_demo.egg-info\top_level.txt'
+removing 'zapier-demo-1.0.1' (and everything under it)
