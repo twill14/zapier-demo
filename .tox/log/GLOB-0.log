@@ -9,8 +9,6 @@ writing requirements to zapier_demo.egg-info\requires.txt
 writing top-level names to zapier_demo.egg-info\top_level.txt
 reading manifest file 'zapier_demo.egg-info\SOURCES.txt'
 writing manifest file 'zapier_demo.egg-info\SOURCES.txt'
-warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
-
 running check
 creating zapier-demo-1.0.1
 creating zapier-demo-1.0.1\config

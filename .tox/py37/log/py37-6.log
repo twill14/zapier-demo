@@ -1,0 +1,16 @@
+action: py37, msg: installpkg
+cwd: C:\Users\twill\PycharmProjects\zapierAutomationDemo
+cmd: 'C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py37\Scripts\python.EXE' -m pip install --no-deps -U '.tox\.tmp\package\1\zapier-demo-1.0.1.zip'
+Processing c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\.tmp\package\1\zapier-demo-1.0.1.zip
+Building wheels for collected packages: zapier-demo
+  Building wheel for zapier-demo (setup.py): started
+  Building wheel for zapier-demo (setup.py): finished with status 'done'
+  Created wheel for zapier-demo: filename=zapier_demo-1.0.1-py3-none-any.whl size=2003 sha256=07a1303853a3afa6c643a31447b44d45714a6ee951c583e7903ae032b9baca29
+  Stored in directory: c:\users\twill\appdata\local\pip\cache\wheels\c9\1b\bd\01467ea69a457e3737b11f90df26c32ea071d8a0d2a727f392
+Successfully built zapier-demo
+Installing collected packages: zapier-demo
+  Attempting uninstall: zapier-demo
+    Found existing installation: zapier-demo 1.0.1
+    Not uninstalling zapier-demo at c:\users\twill\pycharmprojects\zapierautomationdemo, outside environment C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py37
+    Can't uninstall 'zapier-demo'. No files were found to uninstall.
+Successfully installed zapier-demo-1.0.1

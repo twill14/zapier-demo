@@ -1,0 +1,17 @@
+action: py27, msg: installpkg
+cwd: C:\Users\twill\PycharmProjects\zapierAutomationDemo
+cmd: 'C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py27\Scripts\python.EXE' -m pip install --no-deps -U '.tox\.tmp\package\1\zapier-demo-1.0.1.zip'
+DEPRECATION: Python 2.7 reached the end of its life on January 1st, 2020. Please upgrade your Python as Python 2.7 is no longer maintained. A future version of pip will drop support for Python 2.7. More details about Python 2 support in pip, can be found at https://pip.pypa.io/en/latest/development/release-process/#python-2-support
+Processing c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\.tmp\package\1\zapier-demo-1.0.1.zip
+Building wheels for collected packages: zapier-demo
+  Building wheel for zapier-demo (setup.py): started
+  Building wheel for zapier-demo (setup.py): finished with status 'done'
+  Created wheel for zapier-demo: filename=zapier_demo-1.0.1-py2-none-any.whl size=2012 sha256=c43a919c3067ae86ef7db5bad00ad4a5f0308503177544f933c1d6f89af53506
+  Stored in directory: c:\users\twill\appdata\local\pip\cache\wheels\a6\3a\bf\0386d0303fe881872270369ae2404ee8e8b9272ae62652f392
+Successfully built zapier-demo
+Installing collected packages: zapier-demo
+  Attempting uninstall: zapier-demo
+    Found existing installation: zapier-demo 1.0.1
+    Not uninstalling zapier-demo at c:\users\twill\pycharmprojects\zapierautomationdemo, outside environment C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py27
+    Can't uninstall 'zapier-demo'. No files were found to uninstall.
+Successfully installed zapier-demo-1.0.1

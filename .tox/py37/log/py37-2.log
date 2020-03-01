@@ -1,0 +1,39 @@
+action: py37, msg: installpkg
+cwd: C:\Users\twill\PycharmProjects\zapierAutomationDemo
+cmd: 'C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py37\Scripts\python.EXE' -m pip install --exists-action w '.tox\.tmp\package\1\zapier-demo-1.0.1.zip'
+Processing c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\.tmp\package\1\zapier-demo-1.0.1.zip
+Collecting selenium
+  Using cached selenium-3.141.0-py2.py3-none-any.whl (904 kB)
+Requirement already satisfied: pytest in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from zapier-demo==1.0.1) (5.3.5)
+Requirement already satisfied: webdriver_manager in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from zapier-demo==1.0.1) (2.3.0)
+Requirement already satisfied: urllib3 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from selenium->zapier-demo==1.0.1) (1.25.8)
+Requirement already satisfied: py>=1.5.0 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (1.8.1)
+Requirement already satisfied: more-itertools>=4.0.0 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (8.2.0)
+Requirement already satisfied: attrs>=17.4.0 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (19.3.0)
+Requirement already satisfied: pluggy<1.0,>=0.12 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (0.13.1)
+Requirement already satisfied: packaging in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (20.1)
+Requirement already satisfied: wcwidth in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (0.1.8)
+Requirement already satisfied: importlib-metadata>=0.12; python_version < "3.8" in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (1.5.0)
+Requirement already satisfied: colorama; sys_platform == "win32" in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (0.4.3)
+Requirement already satisfied: atomicwrites>=1.0; sys_platform == "win32" in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from pytest->zapier-demo==1.0.1) (1.3.0)
+Requirement already satisfied: requests in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from webdriver_manager->zapier-demo==1.0.1) (2.23.0)
+Requirement already satisfied: configparser in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from webdriver_manager->zapier-demo==1.0.1) (4.0.2)
+Requirement already satisfied: crayons in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from webdriver_manager->zapier-demo==1.0.1) (0.3.0)
+Requirement already satisfied: six in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from packaging->pytest->zapier-demo==1.0.1) (1.14.0)
+Requirement already satisfied: pyparsing>=2.0.2 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from packaging->pytest->zapier-demo==1.0.1) (2.4.6)
+Requirement already satisfied: zipp>=0.5 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from importlib-metadata>=0.12; python_version < "3.8"->pytest->zapier-demo==1.0.1) (3.0.0)
+Requirement already satisfied: chardet<4,>=3.0.2 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from requests->webdriver_manager->zapier-demo==1.0.1) (3.0.4)
+Requirement already satisfied: idna<3,>=2.5 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from requests->webdriver_manager->zapier-demo==1.0.1) (2.9)
+Requirement already satisfied: certifi>=2017.4.17 in c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\py37\lib\site-packages (from requests->webdriver_manager->zapier-demo==1.0.1) (2019.11.28)
+Building wheels for collected packages: zapier-demo
+  Building wheel for zapier-demo (setup.py): started
+  Building wheel for zapier-demo (setup.py): finished with status 'done'
+  Created wheel for zapier-demo: filename=zapier_demo-1.0.1-py3-none-any.whl size=2003 sha256=e6f7167ea68eeaf2478de760c4ddc4d1776d33160345550eac7f6656a0644598
+  Stored in directory: c:\users\twill\appdata\local\pip\cache\wheels\c9\1b\bd\01467ea69a457e3737b11f90df26c32ea071d8a0d2a727f392
+Successfully built zapier-demo
+Installing collected packages: selenium, zapier-demo
+  Attempting uninstall: zapier-demo
+    Found existing installation: zapier-demo 1.0.1
+    Not uninstalling zapier-demo at c:\users\twill\pycharmprojects\zapierautomationdemo, outside environment C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py37
+    Can't uninstall 'zapier-demo'. No files were found to uninstall.
+Successfully installed selenium-3.141.0 zapier-demo-1.0.1

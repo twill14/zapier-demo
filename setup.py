@@ -7,5 +7,5 @@ setup(
     author='Thomas Williams',
     author_email='twill14@gmail.com',
     url='https://github.com/twill14/zapier-demo.git',
-    packages=find_packages(), install_requires=['selenium', 'pytest', 'webdriver_manager']
+    packages=find_packages(), install_requires=['selenium', 'pytest']
 )

@@ -1,0 +1,7 @@
+action: py27, msg: getenv
+cwd: C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox
+cmd: 'c:\users\twill\anaconda3\envs\zapierautomationdemo\python.exe' -m virtualenv --no-download --python 'C:\Python27\python.exe' py27
+created virtual environment CPython2.7.15.final.0-64 in 1559ms
+  creator CPython2Windows(dest=C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py27, clear=False, global=False)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, via=copy, app_data_dir=C:\Users\twill\AppData\Local\Temp\tmpb0u773mo\seed-app-data\v1)
+  activators BashActivator,BatchActivator,FishActivator,PowerShellActivator,PythonActivator
