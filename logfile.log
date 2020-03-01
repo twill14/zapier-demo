@@ -1,0 +1,157 @@
+2020-03-01 10:59:20,250 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:00:20,536 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:01:56,126 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:10:43,723 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:12:14,291 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:12:50,302 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:52:14,177 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:52:14,216 :INFO : test_search_bar : Checking Logo is Present
+2020-03-01 11:52:14,242 :INFO : test_search_bar_items : Checking Logo is Present
+2020-03-01 11:52:46,583 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:52:46,628 :INFO : test_search_bar : Checking Logo is Present
+2020-03-01 11:52:46,651 :INFO : test_search_bar_items : Checking Logo is Present
+2020-03-01 11:55:13,504 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:55:13,541 :INFO : test_search_bar : Checking Logo is Present
+2020-03-01 11:55:13,563 :INFO : test_search_bar_items : Checking Logo is Present
+2020-03-01 11:58:46,340 :INFO : test_logo : Checking Logo is Present
+2020-03-01 11:58:46,370 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 11:58:46,391 :INFO : test_search_bar_items : Checking Search bar suggested elements are present
+2020-03-01 12:05:41,686 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:05:41,715 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:05:41,741 :INFO : test_search_bar_items : Checking Search bar suggested elements are present
+2020-03-01 12:10:10,264 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:10:10,295 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:10:10,317 :INFO : test_search_bar_items : Checking Search bar suggested elements are present
+2020-03-01 12:19:07,087 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:19:07,116 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:19:07,199 :INFO : test_search_bar_items : Checking Search bar suggested elements are present
+2020-03-01 12:20:52,929 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:20:52,954 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:20:52,981 :INFO : test_search_bar_items : Checking Search bar suggested elements are present
+2020-03-01 12:21:05,963 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:21:05,993 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:21:06,015 :INFO : test_search_bar_items : Checking Search bar suggested elements are present
+2020-03-01 12:21:53,347 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:21:53,375 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:21:53,397 :INFO : test_search_bar_items : Checking Search bar suggested elements are present
+2020-03-01 12:24:32,265 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:24:32,294 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:25:18,039 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:25:18,070 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:55:57,196 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:55:57,233 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:55:57,254 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 12:57:06,267 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:57:06,300 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:57:06,323 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 12:59:17,425 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:59:17,454 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:59:17,590 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 12:59:39,844 :INFO : test_logo : Checking Logo is Present
+2020-03-01 12:59:39,871 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 12:59:39,999 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 13:37:15,703 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 13:37:24,133 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 13:37:24,147 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 13:37:32,555 :INFO : test_goto_tips : Navigate to Pricing Page
+2020-03-01 13:37:32,565 :INFO : test_goto_tips : Smoke Test Main Price Content Section
+2020-03-01 13:38:46,106 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 13:38:56,085 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 13:38:56,096 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 13:39:07,668 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 13:39:20,077 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 13:39:20,329 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 13:41:00,574 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 13:41:00,945 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 13:41:09,087 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 13:41:09,101 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 13:41:19,261 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 13:41:19,597 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 13:41:27,865 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 13:41:28,132 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 13:51:43,011 :INFO : test_logo : Checking Logo is Present
+2020-03-01 13:51:51,564 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 13:52:00,441 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 13:52:00,827 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 13:52:09,216 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 13:52:09,234 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 13:52:19,851 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 13:52:20,298 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 13:52:28,500 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 13:52:28,739 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 13:58:09,811 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 13:58:10,149 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 13:58:18,480 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 13:58:18,497 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 13:58:29,151 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 13:58:29,648 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 13:58:39,966 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 13:58:40,211 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 14:00:27,365 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 14:00:27,696 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 14:00:35,913 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 14:00:35,931 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 14:00:46,460 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 14:00:46,691 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 14:00:59,452 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 14:00:59,691 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 14:01:36,114 :INFO : test_logo : Checking Logo is Present
+2020-03-01 14:01:44,299 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 14:01:52,760 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 14:01:52,770 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 14:02:01,190 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 14:02:01,203 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 14:02:16,077 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 14:02:16,111 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 14:02:24,301 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 14:02:24,572 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 14:02:41,246 :INFO : test_logo : Checking Logo is Present
+2020-03-01 14:02:49,388 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 14:02:57,763 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 14:02:58,130 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 14:03:06,392 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 14:03:06,405 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 14:03:17,116 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 14:03:17,658 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 14:03:25,748 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 14:03:26,049 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 14:04:58,260 :INFO : test_logo : Checking Logo is Present
+2020-03-01 14:05:06,456 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 14:05:14,929 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 14:05:15,250 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 14:05:23,454 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 14:05:23,470 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 14:05:34,026 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 14:05:34,579 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 14:05:43,109 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 14:05:43,356 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 14:06:14,537 :INFO : test_logo : Checking Logo is Present
+2020-03-01 14:06:23,043 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 14:06:31,643 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 14:06:31,999 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 14:06:40,574 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 14:06:40,615 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 14:06:51,206 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 14:06:51,562 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 14:07:00,282 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 14:07:00,527 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 14:10:12,056 :INFO : test_logo : Checking Logo is Present
+2020-03-01 14:10:20,439 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 14:10:28,759 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 14:10:29,090 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 14:10:37,249 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 14:10:37,266 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 14:10:48,885 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 14:10:49,280 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 14:10:57,645 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 14:10:57,890 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 14:11:16,704 :INFO : test_logo : Checking Logo is Present
+2020-03-01 14:11:25,027 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 14:11:33,326 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 14:11:33,653 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 14:11:43,674 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 14:11:43,690 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 14:11:54,089 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 14:11:54,351 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 14:12:08,452 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 14:12:08,715 :INFO : test_goto_pricing : Smoke Test Main Price Content Section

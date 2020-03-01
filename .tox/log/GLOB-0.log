@@ -11,15 +11,27 @@ reading manifest file 'zapier_demo.egg-info\SOURCES.txt'
 writing manifest file 'zapier_demo.egg-info\SOURCES.txt'
 running check
 creating zapier-demo-1.0.1
+creating zapier-demo-1.0.1\Utilities
 creating zapier-demo-1.0.1\config
+creating zapier-demo-1.0.1\pageObject
 creating zapier-demo-1.0.1\tests
 creating zapier-demo-1.0.1\zapier_demo.egg-info
 copying files to zapier-demo-1.0.1...
+copying README.md -> zapier-demo-1.0.1
 copying setup.py -> zapier-demo-1.0.1
+copying Utilities\BaseClass.py -> zapier-demo-1.0.1\Utilities
+copying Utilities\__init__.py -> zapier-demo-1.0.1\Utilities
 copying config\__init__.py -> zapier-demo-1.0.1\config
 copying config\config.py -> zapier-demo-1.0.1\config
+copying pageObject\AppsPage.py -> zapier-demo-1.0.1\pageObject
+copying pageObject\ExplorePage.py -> zapier-demo-1.0.1\pageObject
+copying pageObject\HomePage.py -> zapier-demo-1.0.1\pageObject
+copying pageObject\PricePage.py -> zapier-demo-1.0.1\pageObject
+copying pageObject\TipsPage.py -> zapier-demo-1.0.1\pageObject
+copying pageObject\__init__.py -> zapier-demo-1.0.1\pageObject
 copying tests\__init__.py -> zapier-demo-1.0.1\tests
-copying tests\test_navigation.py -> zapier-demo-1.0.1\tests
+copying tests\test_homepage.py -> zapier-demo-1.0.1\tests
+copying tests\test_smoke.py -> zapier-demo-1.0.1\tests
 copying zapier_demo.egg-info\PKG-INFO -> zapier-demo-1.0.1\zapier_demo.egg-info
 copying zapier_demo.egg-info\SOURCES.txt -> zapier-demo-1.0.1\zapier_demo.egg-info
 copying zapier_demo.egg-info\dependency_links.txt -> zapier-demo-1.0.1\zapier_demo.egg-info
@@ -29,15 +41,27 @@ Writing zapier-demo-1.0.1\setup.cfg
 creating '.tox\dist\zapier-demo-1.0.1.zip' and adding 'zapier-demo-1.0.1' to it
 adding 'zapier-demo-1.0.1'
 adding 'zapier-demo-1.0.1\config'
+adding 'zapier-demo-1.0.1\pageObject'
 adding 'zapier-demo-1.0.1\tests'
+adding 'zapier-demo-1.0.1\Utilities'
 adding 'zapier-demo-1.0.1\zapier_demo.egg-info'
 adding 'zapier-demo-1.0.1\PKG-INFO'
+adding 'zapier-demo-1.0.1\README.md'
 adding 'zapier-demo-1.0.1\setup.cfg'
 adding 'zapier-demo-1.0.1\setup.py'
 adding 'zapier-demo-1.0.1\config\config.py'
 adding 'zapier-demo-1.0.1\config\__init__.py'
-adding 'zapier-demo-1.0.1\tests\test_navigation.py'
+adding 'zapier-demo-1.0.1\pageObject\AppsPage.py'
+adding 'zapier-demo-1.0.1\pageObject\ExplorePage.py'
+adding 'zapier-demo-1.0.1\pageObject\HomePage.py'
+adding 'zapier-demo-1.0.1\pageObject\PricePage.py'
+adding 'zapier-demo-1.0.1\pageObject\TipsPage.py'
+adding 'zapier-demo-1.0.1\pageObject\__init__.py'
+adding 'zapier-demo-1.0.1\tests\test_homepage.py'
+adding 'zapier-demo-1.0.1\tests\test_smoke.py'
 adding 'zapier-demo-1.0.1\tests\__init__.py'
+adding 'zapier-demo-1.0.1\Utilities\BaseClass.py'
+adding 'zapier-demo-1.0.1\Utilities\__init__.py'
 adding 'zapier-demo-1.0.1\zapier_demo.egg-info\dependency_links.txt'
 adding 'zapier-demo-1.0.1\zapier_demo.egg-info\PKG-INFO'
 adding 'zapier-demo-1.0.1\zapier_demo.egg-info\requires.txt'

@@ -1,38 +1,42 @@
 action: py37, msg: getenv
 cwd: C:\Users\twill\PycharmProjects\zapierAutomationDemo
-cmd: 'C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py37\Scripts\python.EXE' -m pip install pytest webdriver_manager
+cmd: 'C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py37\Scripts\python.EXE' -m pip install pytest webdriver_manager pytest-html
 Collecting pytest
   Using cached pytest-5.3.5-py3-none-any.whl (235 kB)
 Collecting webdriver_manager
   Using cached webdriver_manager-2.3.0-py2.py3-none-any.whl (10 kB)
-Collecting py>=1.5.0
-  Using cached py-1.8.1-py2.py3-none-any.whl (83 kB)
-Collecting more-itertools>=4.0.0
-  Using cached more_itertools-8.2.0-py3-none-any.whl (43 kB)
+Collecting pytest-html
+  Using cached pytest_html-2.0.1-py2.py3-none-any.whl (15 kB)
 Collecting attrs>=17.4.0
   Using cached attrs-19.3.0-py2.py3-none-any.whl (39 kB)
-Collecting pluggy<1.0,>=0.12
-  Using cached pluggy-0.13.1-py2.py3-none-any.whl (18 kB)
+Collecting more-itertools>=4.0.0
+  Using cached more_itertools-8.2.0-py3-none-any.whl (43 kB)
 Collecting packaging
   Using cached packaging-20.1-py2.py3-none-any.whl (36 kB)
-Collecting wcwidth
-  Using cached wcwidth-0.1.8-py2.py3-none-any.whl (17 kB)
-Collecting importlib-metadata>=0.12; python_version < "3.8"
-  Using cached importlib_metadata-1.5.0-py2.py3-none-any.whl (30 kB)
-Collecting colorama; sys_platform == "win32"
-  Using cached colorama-0.4.3-py2.py3-none-any.whl (15 kB)
+Collecting pluggy<1.0,>=0.12
+  Using cached pluggy-0.13.1-py2.py3-none-any.whl (18 kB)
 Collecting atomicwrites>=1.0; sys_platform == "win32"
   Using cached atomicwrites-1.3.0-py2.py3-none-any.whl (5.9 kB)
+Collecting wcwidth
+  Using cached wcwidth-0.1.8-py2.py3-none-any.whl (17 kB)
+Collecting colorama; sys_platform == "win32"
+  Using cached colorama-0.4.3-py2.py3-none-any.whl (15 kB)
+Collecting py>=1.5.0
+  Using cached py-1.8.1-py2.py3-none-any.whl (83 kB)
+Collecting importlib-metadata>=0.12; python_version < "3.8"
+  Using cached importlib_metadata-1.5.0-py2.py3-none-any.whl (30 kB)
 Collecting requests
   Using cached requests-2.23.0-py2.py3-none-any.whl (58 kB)
 Collecting configparser
   Using cached configparser-4.0.2-py2.py3-none-any.whl (22 kB)
 Collecting crayons
   Using cached crayons-0.3.0-py2.py3-none-any.whl (4.6 kB)
-Collecting six
-  Using cached six-1.14.0-py2.py3-none-any.whl (10 kB)
+Collecting pytest-metadata
+  Using cached pytest_metadata-1.8.0-py2.py3-none-any.whl (9.5 kB)
 Collecting pyparsing>=2.0.2
   Using cached pyparsing-2.4.6-py2.py3-none-any.whl (67 kB)
+Collecting six
+  Using cached six-1.14.0-py2.py3-none-any.whl (10 kB)
 Collecting zipp>=0.5
   Using cached zipp-3.0.0-py3-none-any.whl (4.8 kB)
 Collecting chardet<4,>=3.0.2
@@ -44,5 +48,5 @@ Collecting urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1
 Collecting certifi>=2017.4.17
   Using cached certifi-2019.11.28-py2.py3-none-any.whl (156 kB)
 ERROR: zapier-demo 1.0.1 requires selenium, which is not installed.
-Installing collected packages: py, more-itertools, attrs, zipp, importlib-metadata, pluggy, six, pyparsing, packaging, wcwidth, colorama, atomicwrites, pytest, chardet, idna, urllib3, certifi, requests, configparser, crayons, webdriver-manager
-Successfully installed atomicwrites-1.3.0 attrs-19.3.0 certifi-2019.11.28 chardet-3.0.4 colorama-0.4.3 configparser-4.0.2 crayons-0.3.0 idna-2.9 importlib-metadata-1.5.0 more-itertools-8.2.0 packaging-20.1 pluggy-0.13.1 py-1.8.1 pyparsing-2.4.6 pytest-5.3.5 requests-2.23.0 six-1.14.0 urllib3-1.25.8 wcwidth-0.1.8 webdriver-manager-2.3.0 zipp-3.0.0
+Installing collected packages: attrs, more-itertools, pyparsing, six, packaging, zipp, importlib-metadata, pluggy, atomicwrites, wcwidth, colorama, py, pytest, chardet, idna, urllib3, certifi, requests, configparser, crayons, webdriver-manager, pytest-metadata, pytest-html
+Successfully installed atomicwrites-1.3.0 attrs-19.3.0 certifi-2019.11.28 chardet-3.0.4 colorama-0.4.3 configparser-4.0.2 crayons-0.3.0 idna-2.9 importlib-metadata-1.5.0 more-itertools-8.2.0 packaging-20.1 pluggy-0.13.1 py-1.8.1 pyparsing-2.4.6 pytest-5.3.5 pytest-html-2.0.1 pytest-metadata-1.8.0 requests-2.23.0 six-1.14.0 urllib3-1.25.8 wcwidth-0.1.8 webdriver-manager-2.3.0 zipp-3.0.0

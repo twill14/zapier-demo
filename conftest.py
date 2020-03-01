@@ -34,7 +34,7 @@ def app_config(env):
     return cfg
 
 
-@pytest.fixture(scope="class")
+@pytest.fixture(scope="function")
 def setup(request, app_config):
     global driver
     browser_name = request.config.getoption("--browser")

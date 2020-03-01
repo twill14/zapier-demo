@@ -5,7 +5,7 @@ Processing c:\users\twill\pycharmprojects\zapierautomationdemo\.tox\.tmp\package
 Building wheels for collected packages: zapier-demo
   Building wheel for zapier-demo (setup.py): started
   Building wheel for zapier-demo (setup.py): finished with status 'done'
-  Created wheel for zapier-demo: filename=zapier_demo-1.0.1-py3-none-any.whl size=2010 sha256=a11f26afe7cea19312e111a360f5e53850e917a54828673e4ad175216fb35b20
+  Created wheel for zapier-demo: filename=zapier_demo-1.0.1-py3-none-any.whl size=6006 sha256=54791eef676ce5f2c6ad308f864bf2d9d45990215ae43da73eb3410b98e0e2cf
   Stored in directory: c:\users\twill\appdata\local\pip\cache\wheels\18\b6\d4\cde753038b8e87c3a80bae9166a48b54cfeee3cbec5464e8f4
 Successfully built zapier-demo
 Installing collected packages: zapier-demo
