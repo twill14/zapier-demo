@@ -155,3 +155,23 @@
 2020-03-01 14:11:54,351 :INFO : test_goto_tips : Smoke Test Subscription
 2020-03-01 14:12:08,452 :INFO : test_goto_pricing : Navigate to Pricing Page
 2020-03-01 14:12:08,715 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 19:58:52,140 :INFO : test_logo : Checking Logo is Present
+2020-03-01 19:59:01,101 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 19:59:10,120 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 19:59:10,135 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 19:59:19,246 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 19:59:19,261 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 19:59:32,634 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 19:59:33,092 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 19:59:42,063 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 19:59:42,078 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 20:00:04,100 :INFO : test_logo : Checking Logo is Present
+2020-03-01 20:00:15,310 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 20:00:24,490 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 20:00:24,506 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 20:00:33,815 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 20:00:33,826 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 20:00:47,000 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 20:00:47,611 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 20:00:56,335 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 20:00:56,353 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
