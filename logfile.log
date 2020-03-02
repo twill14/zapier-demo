@@ -175,3 +175,33 @@
 2020-03-01 20:00:47,611 :INFO : test_goto_tips : Smoke Test Subscription
 2020-03-01 20:00:56,335 :INFO : test_goto_pricing : Navigate to Pricing Page
 2020-03-01 20:00:56,353 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 20:07:01,338 :INFO : test_logo : Checking Logo is Present
+2020-03-01 20:07:09,798 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 20:07:18,356 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 20:07:18,755 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 20:07:27,051 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 20:07:27,065 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 20:07:37,892 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 20:07:38,326 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 20:07:47,437 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 20:07:47,737 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 20:08:07,433 :INFO : test_logo : Checking Logo is Present
+2020-03-01 20:08:18,036 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 20:08:27,088 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 20:08:27,103 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 20:08:35,684 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 20:08:35,702 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 20:08:47,486 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 20:08:47,713 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 20:08:56,006 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 20:08:56,019 :INFO : test_goto_pricing : Smoke Test Main Price Content Section
+2020-03-01 20:09:26,657 :INFO : test_logo : Checking Logo is Present
+2020-03-01 20:09:35,181 :INFO : test_search_bar : Checking Search bar is present
+2020-03-01 20:09:43,968 :INFO : test_goto_apps : Navigate to Apps Page
+2020-03-01 20:09:44,493 :INFO : test_goto_apps : Smoke Test Apps Main Content Section
+2020-03-01 20:09:53,103 :INFO : test_goto_explore : Navigate to Explore Page
+2020-03-01 20:09:53,120 :INFO : test_goto_explore : Smoke Test Popular Articles
+2020-03-01 20:10:04,208 :INFO : test_goto_tips : Navigate to Tips & Advice Page
+2020-03-01 20:10:04,542 :INFO : test_goto_tips : Smoke Test Subscription
+2020-03-01 20:10:10,890 :INFO : test_goto_pricing : Navigate to Pricing Page
+2020-03-01 20:10:10,902 :INFO : test_goto_pricing : Smoke Test Main Price Content Section

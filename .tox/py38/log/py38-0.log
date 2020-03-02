@@ -1,0 +1,7 @@
+action: py38, msg: getenv
+cwd: C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox
+cmd: 'c:\users\twill\anaconda3\envs\zapierautomationdemo\python.exe' -m virtualenv --no-download --python 'C:\Users\twill\AppData\Local\Programs\Python\Python38\python.exe' py38
+created virtual environment CPython3.8.0.final.0-64 in 2117ms
+  creator CPython3Windows(dest=C:\Users\twill\PycharmProjects\zapierAutomationDemo\.tox\py38, clear=False, global=False)
+  seeder FromAppData(download=False, pip=latest, setuptools=latest, wheel=latest, via=copy, app_data_dir=C:\Users\twill\AppData\Local\Temp\tmpqe1de92j\seed-app-data\v1)
+  activators BashActivator,BatchActivator,FishActivator,PowerShellActivator,PythonActivator,XonshActivator
