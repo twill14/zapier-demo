@@ -17,7 +17,7 @@ It also comes with some simple reporting via html link generation.
 Supports Python Versions [36, 37, 38]
 
 ### Instructions
-```
+
 To use the repo you should only need to clone the repo to your machine and then install the framework with two commands:
 
 1. `python setup.py install` or `py setup.py install` (depending on your setup)
@@ -36,7 +36,6 @@ To use the repo you should only need to clone the repo to your machine and then 
 So for a full example of the points above you could run: 
 
     `pytest -m smoke --browser chrome --html="results.html"`
-```
 
 #### Bonus Notes for Tech Peeps
 
