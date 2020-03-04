@@ -51,8 +51,8 @@ So for a full example of the points above you could run:
   
      `driver = webdriver.Firefox(executable_path=GeckoDriverManager().install())` --> `driver = webdriver.Firefox()`
      
-  This way you can simply leverage the gecko and chrome webdrivers installed on the mac machines in your machines PATH
+  This way you can simply leverage the gecko and chrome webdrivers installed on the mac machines in your machine's PATH
 
-However, if the above doesn't seem to work, simply try replacing the code for the drivers with the absolute path in which your own driver.exes can be found:
+For windows you can also try replacing the code for the drivers with the absolute path in which your own driver.exe is stored:
 
     `driver = webdriver.Chrome(executable_path=r'C:\path\to\chromedriver.exe')`
