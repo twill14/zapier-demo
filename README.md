@@ -14,8 +14,10 @@ Here i've built a small automation framework using pytest that cover some very b
 
 It also comes with some simple reporting via html link generation.
 
-### Instructions
+Supports Python Versions [36, 37, 38]
 
+### Instructions
+```
 To use the repo you should only need to clone the repo to your machine and then install the framework with two commands:
 
 1. `python setup.py install` or `py setup.py install` (depending on your setup)
@@ -34,12 +36,7 @@ To use the repo you should only need to clone the repo to your machine and then 
 So for a full example of the points above you could run: 
 
     `pytest -m smoke --browser chrome --html="results.html"`
-
-
-#### Quick Notes
-   
-1. I designed the framework to be compatible with Python versions 3.6 and 3.7 ideally.
-2. The framework should be able to run on Mac or Windows but windows might be a smoother experience for people looking to tweak it more.
+```
 
 #### Bonus Notes for Tech Peeps
 
