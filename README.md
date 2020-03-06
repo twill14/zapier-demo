@@ -2,11 +2,9 @@
 
 Greetings to any Zapiens who decided to check this out.
 
-I wanted to take the time to demonstrate at least a fraction of my resolve regarding my interest in what you all are about.
+Just wanted to put something quick together with the small amount of time I had to spare inbetween deploys
 
-And so with that, I wanted to present just a tiny framework I'd been working on in my spare time for the site.
-
-Naturally this work isn't meant to be professional grade nor do I expect you to find much practical use of it, but I do hope that it serves as a plesant example of just some of the work I'd look forward to doing.
+Naturally this work isn't meant to be professional grade nor do I expect you to find much practical use of it, just a little something was all.
 
 ### Summary
 
